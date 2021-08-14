@@ -38,6 +38,7 @@ struct MainView: View {
                             onDislike: onDislike,
                             onLike: onLike
                         )
+                            .shadow(color: .black.opacity(0.2), radius: 20, x: 0, y: 0)
                     }
                     FloatingBar()
                 }
