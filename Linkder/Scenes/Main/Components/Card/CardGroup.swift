@@ -72,7 +72,6 @@ private extension CardGroup {
     
     func getCardOffset(id: Int) -> CGFloat {
         let offset: CGFloat = CGFloat(offers.count + 1 - id)
-        print(offset)
         return offsets[offset] ?? 0
     }
     
