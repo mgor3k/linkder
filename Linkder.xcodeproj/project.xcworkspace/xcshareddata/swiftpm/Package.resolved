@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ConfettiSwiftUI",
+        "repositoryURL": "https://github.com/simibac/ConfettiSwiftUI.git",
+        "state": {
+          "branch": "master",
+          "revision": "7c0b9e92b75ada5d36ec0022d16aa3389b113594",
+          "version": null
+        }
+      },
+      {
+        "package": "FlowStacks",
+        "repositoryURL": "https://github.com/johnpatrickmorgan/FlowStacks.git",
+        "state": {
+          "branch": "main",
+          "revision": "9af49ae8b675ae6904af833eb1e4bc64c243a86c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,13 @@
+// Main
+"MAIN_TITLE" = "Discover";
+"MAIN_CAPTION" = "Offers nearby";
+"MAIN_EMPTY" = "Nothing more to swipe";
+
+// CARD
+"CARD_YEAR" = "/year";
+
+// Success
+"SUCCESS_TITLE" = "It's a match!";
+"SUCCESS_CAPTION" = "What do you want to do with it?";
+"SUCCESS_SAVE" = "Save";
+"SUCCESS_APPLY" = "Apply";
