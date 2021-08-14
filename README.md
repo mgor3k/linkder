@@ -1,4 +1,4 @@
-# Linkder
+# Job Search App
 
 A quick challanged finished in around 3 hours.
 
